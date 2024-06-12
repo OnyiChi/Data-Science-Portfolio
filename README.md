@@ -100,13 +100,30 @@ In this section I will list data analytics projects briefly describing the techn
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 
-## Tableau Visualizations
+## Visualizations
 
-This section contains a snippet of tableau dashboards I have created. 
-My Tableau Public account ---> (link)
+### PowerBI Visualizations
+
+This section contains a snippet of PowerBI dashboards I have created. Full repository can be found here  ---> 
+
+#### Amazon Prime
+
+![Prime](https://github.com/OnyiChi/Data-Science-Portfolio/assets/144718639/430a88c6-a004-49f2-ba23-04b936c50349)
+
+#### Airbnb
+
+![Airbnb](https://github.com/OnyiChi/Data-Science-Portfolio/assets/144718639/ec721063-5165-4705-8372-fbcc66ea5357)
+
+
+
+### Tableau Visualizations
+
+My Tableau Public account ---> [Tableau](https://public.tableau.com/app/profile/onyinyechi.ihesiulo/vizzes)
 
 
 ## Contacts
+
+I welcome any feedback, suggestions, or questions you may have about the projects. Feel free to reach out to me via:
 
 - linkedin:
 - Email: 
