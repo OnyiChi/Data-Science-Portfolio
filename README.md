@@ -61,6 +61,8 @@ My Tableau Public account ---> [Tableau](https://public.tableau.com/app/profile/
 
 I welcome any feedback, suggestions, or questions you may have about the projects. Feel free to reach out to me via:
 
-- linkedin:
-- Email: 
+- [LinkedIn](https://www.linkedin.com/in/onyinyechi-ihesiulo-5856311a9)
+
+- [Email me](mailto:onyinye.ihesiulo@yahoo.com)
+
 
