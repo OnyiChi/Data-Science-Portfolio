@@ -15,7 +15,10 @@ This repository serves to showcase my skills and as a platform to share my proje
     - Breast Cancer Classification
     - Mall Customer Segmentation
     - Movie Recommendation System
-
+      
+- Computer Vision 
+    - Brain Tumor Detection
+      
  - Visualizations
     - Tableau Visualization
     - PowerBI Visualization
@@ -34,6 +37,11 @@ This section contains data analytics projects I have done, their description and
 | [Mall Customer Segmentation](https://github.com/OnyiChi/Data-Science-Project/tree/main/machine_learning/clustering/Mall_Customers_Segmentation) | This project involves analyzing customer data to identify distinct segments based on age, annual income, and spending score. Through exploratory data analysis and clustering techniques, including the K-Means algorithm, five customer segments were identified, highlighting varying patterns in spending behavior and income levels. The results reveal key insights into customer demographics and spending habits, enabling more targeted marketing strategies| Data preprocessing, visualization using libraries like Matplotlib and Seaborn, and machine learning clustering methods. |
 | [Movie Recommendation System](https://github.com/OnyiChi/Data-Science-Project/tree/main/machine_learning/recommendation) | The recommendation system presented utilizes cosine similarity to suggest movies to users based on their input. Upon receiving the name of a movie from the user, the system calculates the similarity between that movie and all others in the dataset, considering attributes such as genres, keywords, cast, and directors. The movies with the highest similarity scores are then recommended to the user. Through this approach, the system effectively identifies movies that share similar characteristics with the user's input, providing tailored recommendations. The results of the recommendation process are displayed to the user, listing the suggested movies ranked by their similarity scores. This allows users to discover new movies that align with their preferences and interests | Data preprocesing, TF-IDF Vectorization, Cosine similarity, Python libraries such as numpy, pandas, and scikit-learn for data manipulation, analysis, and machine learning tasks |
 
+## Computer Vision Projects
+
+| Project Name | Description | Skills |
+|----------|----------|----------|
+| [Brain Tumor Detection](https://github.com/OnyiChi/brain-tumor-detection) | his project employs a dual-approach methodology to enhance the accuracy and efficiency of brain tumor detection in MRI and CT scan images. The first approach utilizes the Haar Cascade algorithm for rapid initial detection of potential tumor regions. The second approach leverages Convolutional Neural Networks (CNNs) to confirm the presence of tumors and uses OpenCV for precise image segmentation. This combination of traditional machine learning and deep learning techniques ensures comprehensive and accurate tumor detection, providing a robust and scalable framework for varied imaging conditions and tumor characteristics. | Haar Cascade Algorithm, Convolutional Neural Networks (CNNs), OpenCV, Data processing, Medical image analysis |
 
 
 ## Visualizations
