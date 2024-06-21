@@ -16,8 +16,11 @@ This repository serves to showcase my skills and as a platform to share my proje
     - Mall Customer Segmentation
     - Movie Recommendation System
       
-- Computer Vision 
+- Computer Vision Projects
     - Brain Tumor Detection
+      
+- Time Series Projects
+    - Time Series Analysis on Airline Passengers 
       
  - Visualizations
     - Tableau Visualization
@@ -43,6 +46,13 @@ This section contains data analytics projects I have done, their description and
 |----------|----------|----------|
 | [Brain Tumor Detection](https://github.com/OnyiChi/brain-tumor-detection) | his project employs a dual-approach methodology to enhance the accuracy and efficiency of brain tumor detection in MRI and CT scan images. The first approach utilizes the Haar Cascade algorithm for rapid initial detection of potential tumor regions. The second approach leverages Convolutional Neural Networks (CNNs) to confirm the presence of tumors and uses OpenCV for precise image segmentation. This combination of traditional machine learning and deep learning techniques ensures comprehensive and accurate tumor detection, providing a robust and scalable framework for varied imaging conditions and tumor characteristics. | Haar Cascade Algorithm, Convolutional Neural Networks (CNNs), OpenCV, Data processing, Medical image analysis |
 
+## Time Series Projects
+
+| Project Name | Description | Skills |
+|----------|----------|----------|
+| [Time Series Analysis on Airline Passengers](https://github.com/OnyiChi/Data-Science-Project/tree/main/time%20series) | This project involves analyzing the Airline Passengers dataset, which includes monthly totals of international airline passengers from 1949 to 1960. The goal is to understand the data's characteristics, achieve stationarity, and develop forecasting models. The project applies various transformations and models to achieve accurate predictions of future passenger numbers. | Pandas, NumPy, Matplotlib, Seaborn, Rolling Statistics, Augmented Dickey-Fuller Test, Time Series Data Manipulation, ARIMA Modeling, SARIMA Modeling, Data Transformation (Log, Square Root, Cube Root), Data Differencing, Forecasting with SARIMA, Plotting ACF and PACF |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 ## Visualizations
 
