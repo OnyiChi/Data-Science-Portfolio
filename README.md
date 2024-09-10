@@ -53,8 +53,7 @@ This section contains data analytics projects I have done, their description and
 | Project Name | Description | Skills |
 |----------|----------|----------|
 | [Time Series Analysis on Airline Passengers](https://github.com/OnyiChi/Data-Science-Project/tree/main/time%20series) | This project involves analyzing the Airline Passengers dataset, which includes monthly totals of international airline passengers from 1949 to 1960. The goal is to understand the data's characteristics, achieve stationarity, and develop forecasting models. The project applies various transformations and models to achieve accurate predictions of future passenger numbers. | Pandas, NumPy, Matplotlib, Seaborn, Rolling Statistics, Augmented Dickey-Fuller Test, Time Series Data Manipulation, ARIMA Modeling, SARIMA Modeling, Data Transformation (Log, Square Root, Cube Root), Data Differencing, Forecasting with SARIMA, Plotting ACF and PACF |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
 
 ## Visualizations
 
